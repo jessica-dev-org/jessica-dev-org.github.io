@@ -1,2 +1,2 @@
-# -jessica-dev-org-.github.io
+# jessica-dev-org.github.io
 Classwork for it102
